@@ -7,10 +7,17 @@ import './App.css'
 function App() {
   return (
     <>
+      <div className="bg-secondary-subtle fw-bold p-2 fs-2 ">
+        <Header />
+      </div>
 
-      <Header />
-      <PostCard />
+      <main className="bg-secondary-subtle">
+        <div className="d-flex justify-content-center pb-3">
+          <PostCard />
+        </div>
+      </main>
       <Footer />
+
 
 
 

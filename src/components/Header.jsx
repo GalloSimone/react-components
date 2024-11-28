@@ -1,7 +1,7 @@
 import React from "react";
 
 function Header() {
-    return (<header>il mio blog </header>);
+    return (<header className="text-center">il mio blog </header>);
 
 
 }
