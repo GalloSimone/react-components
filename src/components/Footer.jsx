@@ -1,9 +1,12 @@
 import React from "react";
+
 function Footer() {
+
     return (
-        <Footer>Lorem ipsum dolor sit amet consectetur adipisicing elit.ù
-        </Footer>)
+        <footer>Lorem ipsum dolor sit amet consectetur adipisicing elit.
+        </footer>)
 }
 
 
 export default Footer
+
